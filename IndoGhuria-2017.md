@@ -1,7 +1,13 @@
 ---
 title: "Indo-Ghuria: Continuities and Ruptures in 12th-13th-Century South and Central Asia"
 location: Butler 208B
-participants:
+type: workshop
+
+---
+## Prompt: 
+A collaboration between The MET, UC Irvine, and Columbia, this collective endeavor brings together historians, archeologists, and art-historians to explore, from multiple disciplinary perspectives, the shifting connections between South and Central Asia during the twelfth-thirteenth centuries. Although this timeframe has been historiographically emphasized primarily due to the Mongol campaigns of the 1220s in Central Asia, almost simultaneously South Asia (particularly northern India) also underwent momentous changes: the successful Ghurid campaigns of the 1190s not only introduced and consolidated Islam as a political system in the region, they effectively sutured the Indic and Persianate worlds in a new and enduring nexus of cultural, linguistic, socio-religious, and political relationships that were to reverberate for centuries into the modern day. This workshop will explore a meaningful cross-section of the twelfth-thirteenth-century historical moment/process.
+
+## Participants:
 - Manan Ahmed
 - Viola Allegranzi
 - Shahid Amin
@@ -14,11 +20,7 @@ participants:
 - Martina Rugiadi
 - Tamara Sears
 - Jawan Shir Rasikh
-type: workshop
-prompt: "A collaboration between The MET, UC Irvine, and Columbia, this collective endeavor brings together historians, archeologists, and art-historians to explore, from multiple disciplinary perspectives, the shifting connections between South and Central Asia during the twelfth-thirteenth centuries. Although this timeframe has been historiographically emphasized primarily due to the Mongol campaigns of the 1220s in Central Asia, almost simultaneously South Asia (particularly northern India) also underwent momentous changes: the successful Ghurid campaigns of the 1190s not only introduced and consolidated Islam as a political system in the region, they effectively sutured the Indic and Persianate worlds in a new and enduring nexus of cultural, linguistic, socio-religious, and political relationships that were to reverberate for centuries into the modern day. This workshop will explore a meaningful cross-section of the twelfth-thirteenth-century historical moment/process. ."
-categories:
-- events
----
+
 ## Funding & Support
 * Lenfest Junior Faculty Development Grant, Faculty of Arts & Sciences
 * South Asia Institute and the Dean of Social Sciences
