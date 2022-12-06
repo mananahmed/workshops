@@ -7,6 +7,10 @@ type: workshop
 ## Prompt: 
 
 ## Participants:
+- [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
+- [Jawairia Ahmad](https://www.linkedin.com/in/jawairia-ahmad)  
+- [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
+- Hung 
 
 ## Funding & Support
 
