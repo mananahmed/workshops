@@ -13,7 +13,7 @@ Our focus with “Worlds at Waste” is to trace climate events that have caused
 ## Participants:
 
 - [Jawairia Ahmad](https://www.linkedin.com/in/jawairia-ahmad)
-- [Sunil Amrith](https://history.yale.edu/people/sunil-amrith)  
+- [Sunil Amrith](https://history.yale.edu/people/sunil-amrith)&#x2611;  
 - [Elif Ayhan](https://blogs.worldbank.org/team/elif-ayhan) 
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
