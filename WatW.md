@@ -5,6 +5,7 @@
 ## Organizers
 - Kavita Sivramakrishnan
 - Manan Ahmed
+- Kamini Masood
 
 ## Prompt: 
 Our focus with “Worlds at Waste” is to trace climate events that have caused massive displacement in Pakistan in Summer of 2022. We aim to bring together scientists and social scientists to help us look through the lens of historical pasts, politics, and an embedded presents. Devastations and displacement from water caused by climate crists is and will remain a recurring, returning, and pervasive phenomenon in the global south. Our approach intends a shift from an overwhelming focus on modeling catastrophic futures, the periodization of eras, and mapping the implications of climate change that prevails in  in current dialogues on climate change towards a conversation that foregrounds human and environmental vulnerability in non-Western, transnational spaces with indigenous and historical means of reslience.
