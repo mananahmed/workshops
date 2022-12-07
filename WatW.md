@@ -30,6 +30,7 @@ Our focus with “Worlds at Waste” is to trace climate events that have caused
 
 
 ## Schedule
+### April 7th, 2023
 
 ## Venue:
 Buell Hall, Columbia
