@@ -4,6 +4,9 @@ location: Columbia University
 date: April 7, 2023
 
 ---
+
+![WorldatWaste](images/wawcover.jpeg)
+
 ## Organizers
 - Kavita Sivramakrishnan
 - Manan Ahmed
