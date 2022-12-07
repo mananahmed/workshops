@@ -1,9 +1,4 @@
----
-title: "Worlds at Waste"
-location: Columbia University
-date: April 7, 2023
-
----
+# Worlds at Waste: The Crisis of Water in the Subcontinent 
 
 ![WorldatWaste](images/wawcover.jpeg)
 
