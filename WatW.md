@@ -29,8 +29,21 @@ Our focus with “Worlds at Waste” is to trace climate events that have caused
 - [Center for Study of Muslim Societies](http://csms.columbia.edu)
 
 
-## Schedule
-### April 7th, 2023
+## Schedule: April 7th, 2023
+
+### Melt (10:30-11:30)
+- Jawairia Ahmad & Karine Gagné
+
+### Flood (12:30-1:30)
+- Amita Baviskar & Hung T. T. Nguyen
+
+### Displacement (1:45-2:45)
+- Marvi Mazhar & Elif Ayhan
+
+### Sea (3:00-4:00)
+- Adam Sobel & Sunil Amrith
+
+### Concluding Roundtable with all Participants (4:00-4:30)
 
 ## Venue:
 Buell Hall, Columbia
