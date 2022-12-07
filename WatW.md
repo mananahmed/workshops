@@ -1,5 +1,5 @@
 ---
-title: "Worlds at Waste: "
+title: "Worlds at Waste"
 location: Columbia University
 date: April 7, 2023
 
