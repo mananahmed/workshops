@@ -28,6 +28,8 @@ Our focus with “Worlds at Waste” is to trace climate events that have caused
 - [Department of History](http://history.columbia.edu)
 - [Center for Study of Muslim Societies](http://csms.columbia.edu)
 
+## Format
+The workshop panels move from the Himalayas to the Sea. Each panel consists of two presenters who will each present for 20 or so minutes. Each panel will be an hour. The intent is to put into direct conversation, a climate scientist with a social scientist, an climate activist and a policy expert. The participants will share their presentation or deck w/ their interlocuter in advance of the workshop and we expect the panel to reflect that engagement. We will seek to publish the presentations as short-essays. 
 
 ## Schedule: April 7th, 2023
 
