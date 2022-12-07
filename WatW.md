@@ -1,7 +1,7 @@
-# Worlds at Waste: The Crisis of Water in the Subcontinent 
-| ![[WorldatWaste](images/wawcover.jpeg) | 
-|:--:| 
-| *Space* |
+# Worlds at Waste: The Crisis of Water in the Subcontinent
+
+![WorldatWaste](images/wawcover.jpeg)
+
 
 
 ## Organizers
