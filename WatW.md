@@ -1,6 +1,8 @@
 # Worlds at Waste: The Crisis of Water in the Subcontinent 
+| ![[WorldatWaste](images/wawcover.jpeg) | 
+|:--:| 
+| *Space* |
 
-![WorldatWaste](images/wawcover.jpeg)
 
 ## Organizers
 - Kavita Sivramakrishnan
