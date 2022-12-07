@@ -1,7 +1,8 @@
 # Worlds at Waste: The Crisis of Water in the Subcontinent
 
-![WorldatWaste](images/wawcover.jpeg)
-
+| ![WorldatWaste](images/wawcover.jpeg) | 
+|:--:| 
+| *AP Photo/Zahid Hussain* |
 
 
 ## Organizers
