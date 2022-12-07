@@ -36,16 +36,16 @@ The workshop panels move from the Himalayas to the Sea. Each panel consists of t
 ### Melt (10:30-11:30)
 - Jawairia Ahmad & Karine Gagné
 
-### Flood (12:30-1:30)
+### Flood (12:30-1:30pm)
 - Amita Baviskar & Hung T. T. Nguyen
 
-### Displacement (1:45-2:45)
+### Displacement (1:45-2:45pm)
 - Marvi Mazhar & Elif Ayhan
 
-### Sea (3:00-4:00)
+### Sea (3:00-4:00pm)
 - Adam Sobel & Sunil Amrith
 
-### Concluding Roundtable with all Participants (4:00-4:30)
+### Concluding Roundtable with all Participants (4:00-4:30pm)
 
 ## Venue:
 Buell Hall, Columbia
