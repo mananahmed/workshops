@@ -14,14 +14,15 @@
 Our focus with “Worlds at Waste: Water” is to reflect on recent climate events that have caused massive displacement in [southern Pakistan](https://reliefweb.int/report/pakistan/pakistan-2022-monsoon-floods-situation-report-no-12-5-december-2022), [southwest India](https://nidm.gov.in/PDF/pubs/ChennailFlood_NIDM2021.pdf) and [Bangladesh](https://www.unicef.org/documents/bangladesh-floods-situation-report-27-june-2022). We aim to bring together scientists and social scientists to help us look through the lens of historical pasts, politics, and an embedded presents. Devastations and displacement from water caused by climate crists is and will remain a recurring, returning, and pervasive phenomenon in the global south. Our approach intends a shift away from the focus on modeling catastrophic futures, the periodization of eras, and mapping the implications of climate change that prevails in current dialogues on climate change. Rather we aim towards a conversation that foregrounds human and environmental vulnerability in non-Western, transnational spaces with indigenous and historical means of resilience. We aim to continue this series with focus on Air and Land. 
 
 ## Participants:
+(confirmed - [x])
 
 - [Jawairia Ahmad](https://www.linkedin.com/in/jawairia-ahmad)
-- [Sunil Amrith](https://history.yale.edu/people/sunil-amrith) 
+- [Sunil Amrith](https://history.yale.edu/people/sunil-amrith) - [x]
 - [Elif Ayhan](https://blogs.worldbank.org/team/elif-ayhan) 
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
-- [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
-- [Marvi Mazhar](https://www.marvimazhar.com/)
-- [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)
+- [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)- [x]
+- [Marvi Mazhar](https://www.marvimazhar.com/) - [x]
+- [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen) - [x]
 - [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel)
 
 
