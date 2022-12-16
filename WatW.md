@@ -19,11 +19,11 @@ Our focus with “Worlds at Waste: Water” is to reflect on recent climate even
 - [Jawairia Ahmad](https://www.linkedin.com/in/jawairia-ahmad)
 - [Sunil Amrith](https://history.yale.edu/people/sunil-amrith) - [x]
 - [Elif Ayhan](https://blogs.worldbank.org/team/elif-ayhan) 
-- [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
+- [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/) - [x]
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)- [x]
 - [Marvi Mazhar](https://www.marvimazhar.com/) - [x]
 - [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen) - [x]
-- [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel)
+- [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel) - [x]
 
 
 ## Funding & Support
