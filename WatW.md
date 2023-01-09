@@ -37,7 +37,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 ## Schedule: April 7th, 2023
 
 ### Melt (10:30-11:30)
-- Chair: 
+- Chair: TBD
 - Panelists: TBD & Karine Gagné
 
 ### Flood (12:30-1:30pm)
