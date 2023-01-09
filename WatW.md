@@ -16,9 +16,9 @@ Our focus with “Worlds at Waste: Water” is to reflect on recent climate even
 ## Participants:
 (confirmed - [x])
 
-- [Jawairia Ahmad](https://www.linkedin.com/in/jawairia-ahmad)
+- [TBD]
 - [Sunil Amrith](https://history.yale.edu/people/sunil-amrith) - [x]
-- [Elif Ayhan](https://blogs.worldbank.org/team/elif-ayhan) 
+- [TBD] 
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/) - [x]
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)- [x]
 - [Marvi Mazhar](https://www.marvimazhar.com/) - [x]
@@ -33,20 +33,24 @@ Our focus with “Worlds at Waste: Water” is to reflect on recent climate even
 - [Center for Study of Muslim Societies](http://csms.columbia.edu)
 
 ## Format
-The workshop panels move from the Himalayas to the Sea. Each panel consists of two presenters who will each present for 20 or so minutes. Each panel will be an hour. The intent is to put into direct conversation a climate scientist with a social scientist; a climate activist and a policy expert. The participants will share their presentation or deck w/ their interlocuter in advance of the workshop and we expect the panel to reflect that engagement. We will seek to publish the presentations as short-essays. 
+The workshop consists of four panels and a roundtable. Each panel will be an hour, and will address one key area of expertise from melting glaciers, to floods, to displacement and finally to the rising sea water. Each panel will thus consists of two presenters who will each present for 20 or so minutes on their current, on-going research. The intent is to put into direct conversation a climate scientist with a social scientist; a climate activist and a policy expert. The participants will share their presentation or deck w/ their co-panelist in advance of the workshop and we expect the panel to reflect that engagement. The final roundtable will be a chance for the audience and the workshop to reflect together. We will seek to publish the presentations as short-essays in an online fora. 
 
 ## Schedule: April 7th, 2023
 
 ### Melt (10:30-11:30)
-- Jawairia Ahmad & Karine Gagné
+- Chair: 
+- Panelists: TBD & Karine Gagné
 
 ### Flood (12:30-1:30pm)
-- Amita Baviskar & Hung T. T. Nguyen
+- Chair: Kavita Sivaramakrishnan
+- Panelists: Amita Baviskar & Hung T. T. Nguyen
 
 ### Displacement (1:45-2:45pm)
-- Marvi Mazhar & Elif Ayhan
+- Chair: Manan Ahmed
+- Panelists: Marvi Mazhar & TBD
 
 ### Sea (3:00-4:00pm)
+- Chair: TBD
 - Adam Sobel & Sunil Amrith
 
 ### Concluding Roundtable with all Participants (4:00-4:30pm)
