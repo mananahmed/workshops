@@ -45,7 +45,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 - Panelists: Amita Baviskar & Hung T. T. Nguyen
 
 ### Displacement (1:45-2:45pm)
-- Chair: Manan Ahmed
+- Chair: TBD
 - Panelists: Marvi Mazhar & TBD
 
 ### Sea (3:00-4:00pm)
