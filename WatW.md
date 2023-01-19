@@ -17,12 +17,13 @@ Our focus with “Worlds at Waste: Water” is to reflect on recent climate even
 
 - [TBD]
 - [Sunil Amrith](https://history.yale.edu/people/sunil-amrith)
-- [TBD] 
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
+- [Alex Halliday](https://people.climate.columbia.edu/users/profile/alexander-n-halliday)
 - [Marvi Mazhar](https://www.marvimazhar.com/)
 - [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)
 - [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel)
+- [Jeff Tan](https://www.aku.edu/ismc/people/Pages/jeff-tan.aspx)
 
 
 ## Funding & Support
@@ -37,8 +38,8 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 ## Schedule: April 7th, 2023
 
 ### Melt (10:30-11:30)
-- Chair: TBD
-- Panelists: TBD & Karine Gagné
+- Chair: Alex Halliday
+- Panelists: Jeff Tan & Karine Gagné
 
 ### Flood (12:30-1:30pm)
 - Chair: Kavita Sivaramakrishnan
