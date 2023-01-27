@@ -15,11 +15,11 @@ Our focus with “Worlds at Waste: Water” is to reflect on recent climate even
 
 ## Participants:
 
-- [TBD]
 - [Sunil Amrith](https://history.yale.edu/people/sunil-amrith)
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
 - [Alex Halliday](https://people.climate.columbia.edu/users/profile/alexander-n-halliday)
+- [Maira Hayat](https://keough.nd.edu/people/maira-hayat/)
 - [Marvi Mazhar](https://www.marvimazhar.com/)
 - [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)
 - [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel)
@@ -46,8 +46,8 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 - Panelists: Amita Baviskar & Hung T. T. Nguyen
 
 ### Displacement (1:45-2:45pm)
-- Chair: TBD
-- Panelists: Marvi Mazhar & TBD
+- Chair: Manan Ahmed
+- Panelists: Marvi Mazhar & Maira Hayat
 
 ### Sea (3:00-4:00pm)
 - Chair: TBD
