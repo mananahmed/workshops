@@ -78,7 +78,7 @@ We are happy to provide a letter if you need a visa to travel for the conference
 * xx for travel reimbursements.
 
 ## Event Poster:
-| ![Poster](images/poster.jpeg) | 
+| ![Poster](images/poster.jpg) | 
 |:--:| 
 | *artist: Laiba Raja* |
 
