@@ -41,19 +41,19 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 - Chair: Alex Halliday
 - Panelists: TBD & Karine Gagné
 
-### Flood (12:30-1:30pm)
+### Flood (11:45-12:45)
 - Chair: Kavita Sivaramakrishnan
 - Panelists: Amita Baviskar & Hung T. T. Nguyen
 
-### Displacement (1:45-2:45pm)
+### Displacement (13:45-14:45)
 - Chair: Manan Ahmed
 - Panelists: Marvi Mazhar & Maira Hayat
 
-### Sea (3:00-4:00pm)
+### Sea (15:00-16:00)
 - Chair: TBD
 - Adam Sobel & Sunil Amrith
 
-### Concluding Roundtable with all Participants (4:00-4:30pm)
+### Concluding Roundtable with all Participants (16:00-16:30)
 
 ## Venue:
 Buell Hall, Columbia
@@ -61,7 +61,7 @@ Buell Hall, Columbia
 ## Lodgings
 
 ## Dinner
-Workshop Dinner- April 7th - TBD
+Workshop Dinner- April 7th (18:00) - TBD
 
 ## Visa & Reimbursements
 We are happy to provide a letter if you need a visa to travel for the conference. We are happy to reimburse your air or train transportation to the workshop. We will sponsor three nights stay for participants coming from outside US and 1 night stay for those joining us from within US. Please find below instructions for reimbursements:
