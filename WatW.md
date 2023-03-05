@@ -23,7 +23,7 @@ The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect
 - [Marvi Mazhar](https://www.marvimazhar.com/)
 - [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)
 - [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel)
-- 
+
 
 
 ## Funding & Support
