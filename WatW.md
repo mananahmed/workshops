@@ -39,7 +39,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 
 ### Melt (10:30-11:30)
 - Chair: Alex Halliday
-- Panelists: TBD & Karine Gagné
+- Panelists: Karine Gagné
 
 ### Flood (11:45-12:45)
 - Chair: Kavita Sivaramakrishnan
@@ -59,9 +59,10 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 Buell Hall, Columbia
  
 ## Lodgings
+Midtown
 
 ## Dinner
-Workshop Dinner- April 7th (18:00) - TBD
+Workshop Dinner- April 7th (18:00) - [Lido Restaurant](https://www.lidodimanhattan.com/) (set menu, wine only)
 
 ## Visa & Reimbursements
 We are happy to provide a letter if you need a visa to travel for the conference. We are happy to reimburse your air or train transportation to the workshop. We will sponsor three nights stay for participants coming from outside US and 1 night stay for those joining us from within US. Please find below instructions for reimbursements:
@@ -75,7 +76,7 @@ We are happy to provide a letter if you need a visa to travel for the conference
 
 ## Contacts:
 * [Kamini Masood](mailto:km3599@columbia.edu) for all matters.
-* xx for travel reimbursements.
+* [Jozef Sulik](mailto:js5055@columbia.edu) for travel reimbursements.
 
 ## Event Poster:
 | ![Poster](images/poster.jpg) | 
