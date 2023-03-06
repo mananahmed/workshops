@@ -37,8 +37,10 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 
 ## Schedule: April 7th, 2023
 
+### Welcomes & Coffee (10:00-10:30)
+
 ### Melt (10:30-11:30)
-- Chair: TBD
+- Chair: Manan Ahmed
 - Panelists: Karine Gagné & Andrew Rumbach
 
 ### Flood (11:45-12:45)
@@ -50,7 +52,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 - Panelists: Marvi Mazhar & Maira Hayat
 
 ### Sea (15:00-16:00)
-- Chair: TBD
+- Chair: Kavita Sivaramakrishnan
 - Adam Sobel & Sunil Amrith
 
 ### Concluding Roundtable with all Participants (16:00-16:30)
