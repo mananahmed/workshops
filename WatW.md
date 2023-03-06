@@ -21,14 +21,14 @@ The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect
 
 ## Participants:
 
-- [Sunil Amrith](https://history.yale.edu/people/sunil-amrith)
-- [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
-- [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
-- [Maira Hayat](https://keough.nd.edu/people/maira-hayat/)
-- [Marvi Mazhar](https://www.marvimazhar.com/)
-- [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)
-- [Andrew Rumbach](https://andrewrumbach.com/)
-- [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel)
+- [Sunil Amrith](https://history.yale.edu/people/sunil-amrith) (History, Yale University)
+- [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/) (Environmental Studies and Sociology and Anthropology, Ashoka University)
+- [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9) (Sociology & Anthropology, University of Guelph)
+- [Maira Hayat](https://keough.nd.edu/people/maira-hayat/) (Environment and Peace Studies, University of Notre Dame)
+- [Marvi Mazhar](https://www.marvimazhar.com/) (Architect, Karchi) 
+- [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)(Biology and Paleo Environment, Columbia Climate School)
+- [Andrew Rumbach](https://andrewrumbach.com/) (Senior Fellow, Urban Institute)
+- [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel) (Applied Physics and Applied Mathematics, Columbia Engineering)
 
 
 
