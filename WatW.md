@@ -39,8 +39,8 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 ## Schedule: April 7th, 2023
 
 ### Melt (10:30-11:30)
-- Chair: Alex Halliday
-- Panelists: Karine Gagné
+- Chair: TBD
+- Panelists: Karine Gagné & Andrew Rumbach
 
 ### Flood (11:45-12:45)
 - Chair: Kavita Sivaramakrishnan
