@@ -6,11 +6,15 @@
 |:--:| 
 | *AP Photo/Zahid Hussain* |
 
+## Registration/Attendance
+- [Eventbrite] (https://www.eventbrite.com/e/worlds-at-waste-the-crisis-of-water-in-the-subcontinent-tickets-549435044007)
+- 
+## Organizing Team
 
-## Organizers
-- Kavita Sivramakrishnan
 - Manan Ahmed
 - Kamini Masood
+- Kavita Sivramakrishnan
+- Jozef Sulik
 
 ## Prompt: 
 The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect on recent climate events that have caused massive displacement in [southern Pakistan](https://reliefweb.int/report/pakistan/pakistan-2022-monsoon-floods-situation-report-no-12-5-december-2022), [northeastern](https://www.thethirdpole.net/en/climate/stalled-monsoon-behind-devastating-floods-northeast-india-bangladesh/) and [southwestern India](https://nidm.gov.in/PDF/pubs/ChennailFlood_NIDM2021.pdf) and [Bangladesh](https://www.unicef.org/documents/bangladesh-floods-situation-report-27-june-2022). It aims to bring together scientists and social scientists to help look through the lens of historical pasts, politics, and an embedded presents. Devastations and displacement from water caused by climate crists is and will remain a recurring, returning, and pervasive phenomenon in the global south. This approach intends a shift away from the focus on modeling catastrophic futures, the periodization of eras, and mapping the implications of climate change that prevails in current dialogues on climate change. Rather the workshop guides towards a conversation that foregrounds human and environmental vulnerability in non-Western, transnational spaces with indigenous and historical means of resilience. The intention is to continue this series with focus on Air and Land in the following academic year. 
