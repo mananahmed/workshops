@@ -67,7 +67,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 [Buell Hall, Columbia](https://www.iserp.columbia.edu/sites/default/files/Directions%20to%20Buell%20Hall.pdf)
  
 ## Lodgings
-Midtown
+[Arthouse Hotel](https://www.arthousehotelnyc.com/)
 
 ## Dinner
 Workshop Dinner- April 7th (18:00) - [Lido Restaurant](https://www.lidodimanhattan.com/) (set menu, wine only)
