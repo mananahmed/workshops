@@ -18,7 +18,6 @@ The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect
 - [Sunil Amrith](https://history.yale.edu/people/sunil-amrith)
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/)
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9)
-- [Alex Halliday](https://people.climate.columbia.edu/users/profile/alexander-n-halliday)
 - [Maira Hayat](https://keough.nd.edu/people/maira-hayat/)
 - [Marvi Mazhar](https://www.marvimazhar.com/)
 - [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)
@@ -57,7 +56,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 ### Concluding Roundtable with all Participants (16:00-16:30)
 
 ## Venue:
-Buell Hall, Columbia
+[Buell Hall, Columbia](https://www.iserp.columbia.edu/sites/default/files/Directions%20to%20Buell%20Hall.pdf)
  
 ## Lodgings
 Midtown
