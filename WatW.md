@@ -16,10 +16,10 @@
 - Kavita Sivramakrishnan
 - Jozef Sulik
 
-## Prompt: 
+## Prompt
 The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect on recent climate events that have caused massive displacement in [southern Pakistan](https://reliefweb.int/report/pakistan/pakistan-2022-monsoon-floods-situation-report-no-12-5-december-2022), [northeastern](https://www.thethirdpole.net/en/climate/stalled-monsoon-behind-devastating-floods-northeast-india-bangladesh/) and [southwestern India](https://nidm.gov.in/PDF/pubs/ChennailFlood_NIDM2021.pdf) and [Bangladesh](https://www.unicef.org/documents/bangladesh-floods-situation-report-27-june-2022). It aims to bring together scientists and social scientists to help look through the lens of historical pasts, politics, and an embedded presents. Devastations and displacement from water caused by climate crists is and will remain a recurring, returning, and pervasive phenomenon in the global south. This approach intends a shift away from the focus on modeling catastrophic futures, the periodization of eras, and mapping the implications of climate change that prevails in current dialogues on climate change. Rather the workshop guides towards a conversation that foregrounds human and environmental vulnerability in non-Western, transnational spaces with indigenous and historical means of resilience. The intention is to continue this series with focus on Air and Land in the following academic year. 
 
-## Participants:
+## Participants
 
 - [Sunil Amrith](https://history.yale.edu/people/sunil-amrith) (History, Yale University)
 - [Amita Baviskar](https://www.ashoka.edu.in/profile/amita-baviskar/) (Environmental Studies and Sociology and Anthropology, Ashoka University)
@@ -41,7 +41,9 @@ The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect
 ## Format
 The workshop consists of four panels and a roundtable. Each panel will be an hour, and will address one key area of expertise from melting glaciers, to floods, to displacement and finally to the rising sea water. Each panel will thus consists of two presenters who will each present for 20 or so minutes on their current, on-going research. Their presentation will be followed by comments from the Chair of the panel. The intent is to put into direct conversation a climate scientist with a social scientist; a climate activist and a policy expert. The participants will share their presentation or deck w/ their co-panelist in advance of the workshop and we expect the panel to reflect that engagement. The final roundtable will be a chance for the audience and the workshop to reflect together. We will seek to publish the presentations as short-essays in an online fora. 
 
-## Schedule: April 7th, 2023
+## Schedule
+
+### April 7th, 2023
 
 ### Welcomes & Coffee (10:00-10:30)
 
@@ -63,7 +65,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 
 ### Concluding Roundtable with all Participants (16:00-16:30)
 
-## Venue:
+## Venue
 [Buell Hall, Columbia](https://www.iserp.columbia.edu/sites/default/files/Directions%20to%20Buell%20Hall.pdf)
  
 ## Lodgings
@@ -82,14 +84,14 @@ We are happy to provide a letter if you need a visa to travel for the conference
   * [W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
   * [W-8BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf)
 
-## Contacts:
+## Contact
 * [Kamini Masood](mailto:km3599@columbia.edu) for all matters.
 * [Jozef Sulik](mailto:js5055@columbia.edu) for travel reimbursements.
 
-## Event Poster:
+## Event Poster
 | ![Poster](images/poster.jpg) | 
 |:--:| 
 | *artist: Laiba Raja* |
 
-## Event Photos:
+## Event Photos
 
