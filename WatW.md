@@ -7,8 +7,8 @@
 | *AP Photo/Zahid Hussain* |
 
 ## Registration/Attendance
-- [Eventbrite] (https://www.eventbrite.com/e/worlds-at-waste-the-crisis-of-water-in-the-subcontinent-tickets-549435044007)
-- 
+- [Eventbrite](https://www.eventbrite.com/e/worlds-at-waste-the-crisis-of-water-in-the-subcontinent-tickets-549435044007)
+
 ## Organizing Team
 
 - Manan Ahmed
