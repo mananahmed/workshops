@@ -1,4 +1,6 @@
 # Worlds at Waste: The Crisis of Water in the Subcontinent
+## April 7, 2023
+## Columbia University
 
 | ![WorldatWaste](images/wawcover.jpeg) | 
 |:--:| 
