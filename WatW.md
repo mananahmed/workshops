@@ -13,7 +13,7 @@
 
 - Manan Ahmed
 - Kamini Masood
-- Kavita Sivramakrishnan
+- Kavita Sivaramakrishnan
 - Jozef Sulik
 
 ## Prompt
