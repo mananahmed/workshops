@@ -26,6 +26,7 @@ The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect
 - [Karine Gagné](https://socioanthro.uoguelph.ca/people/karine-gagn%C3%A9) (Sociology & Anthropology, University of Guelph)
 - [Maira Hayat](https://keough.nd.edu/people/maira-hayat/) (Environment and Peace Studies, University of Notre Dame)
 - [Marvi Mazhar](https://www.marvimazhar.com/) (Karachi) 
+- [Madeeha Merchant](https://c4sr.columbia.edu/people/madeeha-merchant-0) (C4SR, Columbia)
 - [Hung T. T. Nguyen](https://people.climate.columbia.edu/users/profile/tan-thai-hung-nguyen)(Biology and Paleo Environment, Columbia Climate School)
 - [Andrew Rumbach](https://andrewrumbach.com/) (Senior Fellow, Urban Institute)
 - [Adam Sobel](https://www.apam.columbia.edu/faculty/adam-sobel) (Applied Physics and Applied Mathematics, Columbia Engineering)
