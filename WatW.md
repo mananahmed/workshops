@@ -55,15 +55,15 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 - Chair: Kavita Sivaramakrishnan
 - Panelists: Amita Baviskar & Hung T. T. Nguyen
 
-### Displacement (13:45-14:45)
+### Displacement (13:45-15:00)
 - Chair: Manan Ahmed
-- Panelists: Marvi Mazhar & Maira Hayat
+- Panelists: Marvi Mazhar & Maira Hayat & Madeeha Merchant
 
-### Sea (15:00-16:00)
+### Sea (15:15-16:15)
 - Chair: Kavita Sivaramakrishnan
 - Adam Sobel & Sunil Amrith
 
-### Concluding Roundtable with all Participants (16:00-16:30)
+### Concluding Roundtable with all Participants (16:15-17:00)
 
 ## Venue
 [Buell Hall, Columbia](https://www.iserp.columbia.edu/sites/default/files/Directions%20to%20Buell%20Hall.pdf)
