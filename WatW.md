@@ -35,6 +35,8 @@ The focus of this day-long workshop, “Worlds at Waste: Water,” is to reflect
 
 ## Funding & Support
 - [Institute for Social and Economic Research and Policy](https://www.iserp.columbia.edu/)
+- [SOF/Heyman Center](https://sofheyman.org/)
+- [Committee on Global Thought](https://cgt.columbia.edu/)
 - [Center for Science and Society](https://scienceandsociety.columbia.edu/)
 - [Department of History](http://history.columbia.edu)
 - [Center for Study of Muslim Societies](http://csms.columbia.edu)
