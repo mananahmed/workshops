@@ -1,0 +1,3 @@
+remote_theme: mananahmed/workshops
+plugins:
+  - jekyll-feed
