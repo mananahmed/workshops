@@ -75,7 +75,7 @@ The workshop consists of four panels and a roundtable. Each panel will be an hou
 [Arthouse Hotel](https://www.arthousehotelnyc.com/)
 
 ## Dinner
-Workshop Dinner- April 7th (18:00) - [Lido Restaurant](https://www.lidodimanhattan.com/) (set menu, wine only)
+Workshop Dinner for Participants and Guests- April 7th (18:00) - [Lido Harlem Restaurant](https://www.lidoharlem.com/) (set menu, wine only)
 
 ## Visa & Reimbursements
 We are happy to provide a letter if you need a visa to travel for the conference. We are happy to reimburse your air or train transportation to the workshop. We will sponsor three nights stay for participants coming from outside US and 1 night stay for those joining us from within US. Please find below instructions for reimbursements:
