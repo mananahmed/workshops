@@ -9,6 +9,10 @@
 ## Registration/Attendance
 - [Eventbrite](https://www.eventbrite.com/e/worlds-at-waste-the-crisis-of-water-in-the-subcontinent-tickets-549435044007)
 
+## Program
+
+-[Program](images/program.pdf)
+
 ## Organizing Team
 
 - Manan Ahmed
