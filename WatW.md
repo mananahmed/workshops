@@ -11,7 +11,7 @@
 
 ## Program
 
--[Program](images/program.pdf)
+- [Schedule and Program](images/program.pdf)
 
 ## Organizing Team
 
