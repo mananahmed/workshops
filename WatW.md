@@ -102,3 +102,18 @@ We are happy to provide a letter if you need a visa to travel for the conference
 
 ## Event Photos
 
+![Photos](images/watw/IMG_9027.jpeg)
+![Photos](images/watw/IMG_9028.jpeg)
+![Photos](images/watw/IMG_9029.jpeg)
+![Photos](images/watw/IMG_9030.jpeg)
+![Photos](images/watw/IMG_9031.jpeg)
+![Photos](images/watw/IMG_9032.jpeg)
+![Photos](images/watw/IMG_9033.jpeg)
+![Photos](images/watw/IMG_9034.jpeg)
+![Photos](images/watw/IMG_9035.jpeg)
+![Photos](images/watw/IMG_9036.jpeg)
+![Photos](images/watw/IMG_9039.jpeg)
+![Photos](images/watw/IMG_9040.jpeg)
+![Photos](images/watw/IMG_9041.jpeg)
+![Photos](images/watw/IMG_9042.jpeg)
+
