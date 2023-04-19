@@ -117,3 +117,7 @@ We are happy to provide a letter if you need a visa to travel for the conference
 ![Photos](images/watw/IMG_9041.jpeg)
 ![Photos](images/watw/IMG_9042.jpeg)
 
+## Press Coverage
+
+* APRIL 19, 2023. Pria Mahadevan [First 'Worlds at Waste' Conference Takes an Interdisciplinary Look at Water in South Asia](https://news.climate.columbia.edu/2023/04/19/first-worlds-at-waste-conference-takes-an-interdisciplinary-look-at-water-in-south-asia/)
+
