@@ -2,9 +2,9 @@
 ## September 15 & 16, 2023
 ## Columbia University
 
-| ![PC](images/pcfest.jpeg) | 
+| ![PC](images/pcfest.jpg) |
 |:--:|
-| *Hold the Date* |
+| *Save the Date* |
 
 ## Registration/Attendance
 Coming Soon
