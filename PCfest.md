@@ -17,6 +17,7 @@ Coming Soon
 
 - Manan Ahmed
 - Karuna Mantena
+- David Scott
 - Nicole Peisajovich
 - Charles Gerard Thibault Battaglini
 
