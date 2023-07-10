@@ -1,4 +1,4 @@
-# Nation in Fragments with Partha Chatterjee & Friends
+# Nation in Fragments: Conference Honoring Partha Chatterjee
 ## September 15 & 16, 2023
 ## Columbia University
 
@@ -43,15 +43,10 @@ With *The Politics of the Governed: Reflections on Popular Politics in Most of t
 - Abhishek Kaicker
 - Sudipta Kaviraj
 - Mahmood Mamdani
-- Timothy Mitchell
-- Durba Mitra
 - Suren Pillay
 - Gyan Prakash
-- Anupama Rao
 - Mrinalini Sinha
 - Anand Vivek Taneja
-- Gauri Viswanathan
-- S. Akbar Zaidi
 - to be continued
 
 ## Funding & Support
@@ -60,6 +55,7 @@ With *The Politics of the Governed: Reflections on Popular Politics in Most of t
 - [Department of History](http://history.columbia.edu)
 - [Department of Anthropology](http://anthropology.columbia.edu)
 - [South Asia Institute](http://sai.columbia.edu)
+- [South Asia University Seminar](https://universityseminars.columbia.edu/seminars/south-asia/)
 
 
 ## Format
@@ -75,7 +71,7 @@ TBD
 [Buell Hall, Columbia](https://www.iserp.columbia.edu/sites/default/files/Directions%20to%20Buell%20Hall.pdf)
 
 ## Lodgings
-TBD
+[A Loft Harlem](https://www.marriott.com/en-us/hotels/nyclh-aloft-harlem/overview/)
 
 ## Dinner
 TBD
