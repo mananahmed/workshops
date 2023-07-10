@@ -21,7 +21,7 @@ Coming Soon
 - Nicole Peisajovich
 - Charles Gerard Thibault Battaglini
 
-## Prompt
+## About
 
 Partha Chatterjee is one of the most original and critical thinkers of nationalism, populism, and postcolonial democracy. A leading historian, anthropologist, political theorist, and public intellectual, Chatterjee's path-breaking work has shaped a generation of scholarship on the politics and history of the nation-state in postcolonial times. A founding member of the “Subaltern Studies” collective, his scholarship critiqued much of the conventional wisdom about nationalism in the 1980s and 1900s. *Nationalist Thought and the Colonial World* (1986) was a landmark statement on the discursive contradictions and limits of anti-colonial nationalism. In the acclaimed intervention *The Nation and its Fragments: Colonial and Postcolonial Histories*, Chatterjee deftly pivoted away from state-centered ideas of nationhood to chart and conceptualize the heterogeneity internal to nationalism, from historical constructions of difference to the identities and experiences that nationalism reconfigures.
 
