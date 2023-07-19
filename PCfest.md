@@ -31,7 +31,6 @@ With *The Politics of the Governed: Reflections on Popular Politics in Most of t
 
 ## Participants
 
-- Shahid Amin
 - Gianpaolo Baiocci
 - Dipesh Chakrabarty
 - Ruchi Chaturvedi
@@ -47,6 +46,7 @@ With *The Politics of the Governed: Reflections on Popular Politics in Most of t
 - Gyan Prakash
 - Mrinalini Sinha
 - Anand Vivek Taneja
+- Gauri Vishwanathan
 - to be continued
 
 ## Funding & Support
