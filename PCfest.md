@@ -11,9 +11,9 @@
 
 ## Program
 
-- | ![PC](images/PC1.jpg) |
-|:--:|
-| ![PC](images/PC2.jpg) |
+![PC](images/PC1.jpg)
+
+![PC](images/PC2.jpg)
 
 ## Organizing Team
 
