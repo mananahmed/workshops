@@ -7,11 +7,13 @@
 | *Save the Date* |
 
 ## Registration/Attendance
-Coming Soon
+[Register Here](https://www.eventbrite.com/e/nations-in-fragments-tickets-703338754147)
 
 ## Program
 
-- [Schedule and Program](Coming Soon)
+- | ![PC](images/PC1.jpg) |
+|:--:|
+| ![PC](images/PC2.jpg) |
 
 ## Organizing Team
 
@@ -38,7 +40,6 @@ With *The Politics of the Governed: Reflections on Popular Politics in Most of t
 - Ayca Çubukçu
 - Sandipto Dasgupta
 - Rohit De
-- Bodhisattva Kar
 - Abhishek Kaicker
 - Sudipta Kaviraj
 - Mahmood Mamdani
@@ -55,7 +56,7 @@ With *The Politics of the Governed: Reflections on Popular Politics in Most of t
 - [Department of History](http://history.columbia.edu)
 - [Department of Anthropology](http://anthropology.columbia.edu)
 - [South Asia Institute](http://sai.columbia.edu)
-- [South Asia University Seminar](https://universityseminars.columbia.edu/seminars/south-asia/)
+- [Department of MESAAS](https://mesaas.columbia.edu/)
 
 
 ## Format
@@ -64,8 +65,6 @@ The first day of the conference, we have asked four panels with set of scholars 
 
 The second day will begin with a keynote by Professor Chatterjee, followed by an extended roundtable.
 
-## Schedule
-TBD
 
 ## Venue
 [Buell Hall, Columbia](https://www.iserp.columbia.edu/sites/default/files/Directions%20to%20Buell%20Hall.pdf)
@@ -74,7 +73,7 @@ TBD
 [A Loft Harlem](https://www.marriott.com/en-us/hotels/nyclh-aloft-harlem/overview/)
 
 ## Dinner
-TBD
+Le Monde, Saturday night (for panelists only)
 
 ## Visa & Reimbursements
 We are happy to provide a letter if you need a visa to travel for the conference. We are happy to reimburse your air or train transportation to the workshop. We will sponsor five nights stay for participants coming from outside US and three night stay for those joining us from within US. Please find below instructions for reimbursements:
