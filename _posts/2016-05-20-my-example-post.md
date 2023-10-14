@@ -113,18 +113,18 @@ We are happy to provide a letter if you need a visa to travel for the conference
 ## Event Photos
 
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest1.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest2.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest3.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest4.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest5.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest6.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest7.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest8.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest9.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest10.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest11.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest12.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest13.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest2.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest3.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest4.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest5.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest6.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest7.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest8.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest9.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest10.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest11.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest12.jpeg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest13.jpeg">
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest14.jpg">
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest15.jpg">
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest16.jpg">
@@ -135,7 +135,6 @@ We are happy to provide a letter if you need a visa to travel for the conference
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest21.jpg">
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest22.jpg">
 <img src="{{ site.baseurl }}/assets/images/pcfest/pcfest23.jpg">
-<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest24.jpg">
 
 ## Press Coverage
 
