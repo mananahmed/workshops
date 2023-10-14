@@ -11,9 +11,9 @@ permalink: worlds-at-waste
 
 ## Columbia University
 
-| ![WorldatWaste](/assets/images/wawcover.jpeg) |
-| :-------------------------------------------: |
-|           _AP Photo/Zahid Hussain_            |
+| ![Alt Text]({{ site.baseurl }}/assets/images/wawcover.jpeg) |
+| :---------------------------------------------------------: |
+|                  _AP Photo/Zahid Hussain_                   |
 
 ## Registration/Attendance
 
@@ -21,7 +21,7 @@ permalink: worlds-at-waste
 
 ## Program
 
-- [Schedule and Program](/assets/images/program.pdf)
+- [Schedule and Program]({{ site.baseurl }}/assets/images/program.pdf)
 
 ## Organizing Team
 
@@ -118,96 +118,81 @@ We are happy to provide a letter if you need a visa to travel for the conference
 
 ## Event Poster
 
-| ![Poster](/assets/images/poster.jpg) |
-| :----------------------------------: |
-|         _artist: Laiba Raja_         |
+| ![Poster]({{ site.baseurl }}/assets/images/poster.jpg) |
+| :----------------------------------------------------: |
+|                  _artist: Laiba Raja_                  |
 
 ## Event Photos
-
-<!-- ![Photos](/assets/images/watw/IMG_9027.jpeg)
-![Photos](/assets/images/watw/IMG_9028.jpeg)
-![Photos](/assets/images/watw/IMG_9029.jpeg)
-![Photos](/assets/images/watw/IMG_9030.jpeg)
-![Photos](/assets/images/watw/IMG_9031.jpeg)
-![Photos](/assets/images/watw/IMG_9032.jpeg)
-![Photos](/assets/images/watw/IMG_9033.jpeg)
-![Photos](/assets/images/watw/IMG_9034.jpeg)
-![Photos](/assets/images/watw/IMG_9035.jpeg)
-![Photos](/assets/images/watw/IMG_9036.jpeg)
-![Photos](/assets/images/watw/IMG_9039.jpeg)
-![Photos](/assets/images/watw/IMG_9040.jpeg)
-![Photos](/assets/images/watw/IMG_9041.jpeg)
-![Photos](/assets/images/watw/IMG_9042.jpeg) -->
 
 <div class="gallery">
   <div class="gallery-item">
     <img src="{{ site.baseurl }}/assets/images/watw/IMG_9027.jpeg" alt="Alt Text">
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9028.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9028.jpeg" alt="Image 2">
   </div>
 </div>
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9029.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9029.jpeg" alt="Image 2">
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9030.jpeg" alt="Image 2">
-  </div>
-</div>
-
-<div class="gallery">
-  <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9031.jpeg" alt="Image 2">
-  </div>
-  <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9032.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9030.jpeg" alt="Image 2">
   </div>
 </div>
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9033.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9031.jpeg" alt="Image 2">
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9034.jpeg" alt="Image 2">
-  </div>
-</div>
-
-<div class="gallery">
-  <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9035.jpeg" alt="Image 2">
-  </div>
-  <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9036.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9032.jpeg" alt="Image 2">
   </div>
 </div>
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9037.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9033.jpeg" alt="Image 2">
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9038.jpeg" alt="Image 2">
-  </div>
-</div>
-
-<div class="gallery">
-  <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9039.jpeg" alt="Image 2">
-  </div>
-  <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9040.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9034.jpeg" alt="Image 2">
   </div>
 </div>
 
 <div class="gallery">
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9041.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9035.jpeg" alt="Image 2">
   </div>
   <div class="gallery-item">
-    <img src="/assets/images/watw/IMG_9042.jpeg" alt="Image 2">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9036.jpeg" alt="Image 2">
+  </div>
+</div>
+
+<div class="gallery">
+  <div class="gallery-item">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9037.jpeg" alt="Image 2">
+  </div>
+  <div class="gallery-item">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9038.jpeg" alt="Image 2">
+  </div>
+</div>
+
+<div class="gallery">
+  <div class="gallery-item">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9039.jpeg" alt="Image 2">
+  </div>
+  <div class="gallery-item">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9040.jpeg" alt="Image 2">
+  </div>
+</div>
+
+<div class="gallery">
+  <div class="gallery-item">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9041.jpeg" alt="Image 2">
+  </div>
+  <div class="gallery-item">
+    <img src="{{ site.baseurl }}/assets/images/watw/IMG_9042.jpeg" alt="Image 2">
   </div>
 </div>
 
