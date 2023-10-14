@@ -9,9 +9,9 @@ permalink: muzaffar-alam-and-the-new-mughal-historiography
 
 ## Yale University
 
-| ![MA](/assets/images/MehfileAlam.jpg) |
-| :-----------------------------------: |
-|            _Save the Date_            |
+| ![MA]({{ site.baseurl }}/assets/images/MehfileAlam.jpg) |
+| :-----------------------------------------------------: |
+|                     _Save the Date_                     |
 
 ## Registration/Attendance
 

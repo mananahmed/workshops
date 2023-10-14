@@ -103,9 +103,9 @@ This conference brings together scholars working broadly in Ottoman and Mughal p
 
 ## Event Photos
 
-![HoD1](/assets/images/HistoryofDiff1.jpg)
+  <img src="{{ site.baseurl }}/assets/images/HistoryofDiff1.jpg" alt="Alt Text" style="padding-bottom: 10px">
 
-![HoD2](/assets/images/HistoryofDiff2.jpg)
+  <img src="{{ site.baseurl }}/assets/images/HistoryofDiff2.jpg" alt="Alt Text">
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]: https://github.com/jekyll/jekyll

@@ -10,9 +10,9 @@ permalink: nation-in-fragments
 
 ## Columbia University
 
-| ![PC](/assets/images/pcfest.jpg) |
-| :------------------------------: |
-|         _Save the Date_          |
+| ![PC]({{ site.baseurl }}/assets/images/pcfest.jpg) |
+| :------------------------------------------------: |
+|                  _Save the Date_                   |
 
 ## Registration/Attendance
 
@@ -20,9 +20,9 @@ permalink: nation-in-fragments
 
 ## Program
 
-![PC](/assets/images/PC1.jpg)
+![PC]({{ site.baseurl }}/assets/images/PC1.jpg)
 
-![PC](/assets/images/PC2.jpg)
+![PC]({{ site.baseurl }}/assets/images/PC2.jpg)
 
 ## Organizing Team
 
@@ -108,33 +108,34 @@ We are happy to provide a letter if you need a visa to travel for the conference
 
 ## Contact
 
-- [Manan Ahmed](mailto:ma3179@columbia.edu) for all matters.
+- [Manan Ahmed](mailto:mananahmed@outlook.com) for all matters.
 
 ## Event Photos
 
-![PC](/assets/images/pcfest/pcfest1.jpg)
-![PC](/assets/images/pcfest/pcfest2.jpeg)
-![PC](/assets/images/pcfest/pcfest3.jpeg)
-![PC](/assets/images/pcfest/pcfest4.jpeg)
-![PC](/assets/images/pcfest/pcfest5.jpeg)
-![PC](/assets/images/pcfest/pcfest6.jpeg)
-![PC](/assets/images/pcfest/pcfest7.jpeg)
-![PC](/assets/images/pcfest/pcfest8.jpeg)
-![PC](/assets/images/pcfest/pcfest9.jpeg)
-![PC](/assets/images/pcfest/pcfest10.jpeg)
-![PC](/assets/images/pcfest/pcfest11.JPG)
-![PC](/assets/images/pcfest/pcfest12.JPG)
-![PC](/assets/images/pcfest/pcfest13.JPG)
-![PC](/assets/images/pcfest/pcfest14.JPG)
-![PC](/assets/images/pcfest/pcfest15.JPG)
-![PC](/assets/images/pcfest/pcfest16.JPG)
-![PC](/assets/images/pcfest/pcfest17.JPG)
-![PC](/assets/images/pcfest/pcfest18.JPG)
-![PC](/assets/images/pcfest/pcfest19.JPG)
-![PC](/assets/images/pcfest/pcfest20.JPG)
-![PC](/assets/images/pcfest/pcfest21.JPG)
-![PC](/assets/images/pcfest/pcfest22.JPG)
-![PC](/assets/images/pcfest/pcfest23.JPG)
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest1.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest2.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest3.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest4.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest5.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest6.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest7.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest8.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest9.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest10.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest11.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest12.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest13.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest14.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest15.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest16.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest17.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest18.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest19.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest20.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest21.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest22.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest23.jpg">
+<img src="{{ site.baseurl }}/assets/images/pcfest/pcfest24.jpg">
 
 ## Press Coverage
 
