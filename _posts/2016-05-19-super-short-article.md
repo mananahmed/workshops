@@ -139,7 +139,7 @@ We are happy to provide a letter if you need a visa to travel for the conference
 ![Photos](/assets/images/watw/IMG_9041.jpeg)
 ![Photos](/assets/images/watw/IMG_9042.jpeg) -->
 
-![Alt Text](/assets/images/watw/IMG_9027.jpeg)
+![Alt Text]({{ site.baseurl }}/assets/images/watw/IMG_9027.jpeg)
 
 <div class="gallery">
   <div class="gallery-item">
