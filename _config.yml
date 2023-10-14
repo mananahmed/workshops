@@ -1,7 +1,7 @@
-title: Your awesome title
+title: Work Shops
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Manan Ahmed
+  email: mananahmed@outlook.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
@@ -45,7 +45,6 @@ minima:
   #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #   - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
