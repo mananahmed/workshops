@@ -5,7 +5,7 @@ title: "Indo-Ghuria: Continuities and Ruptures in 12th-13th-Century South and Ce
 author:
   - Butler 208B
 # meta: "Springfield"
-permalink: indo-dhuria
+permalink: indo-ghuria
 ---
 
 | title                                                                              | location    | type     |
