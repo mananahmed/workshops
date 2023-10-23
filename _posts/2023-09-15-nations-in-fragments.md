@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nations in Fragments: Conference Honoring Partha Chatterjee"
-permalink: nation-in-fragments
+permalink: nations-in-fragments
 ---
 
 <!-- # Nation in Fragments: Conference Honoring Partha Chatterjee -->
