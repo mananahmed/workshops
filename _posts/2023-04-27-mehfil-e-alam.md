@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Muzaffar Alam and the New Mughal Historiography"
-permalink: Mehfil-e-Alam
+permalink: mehfil-e-alam
 # categories: misc
 ---
 
