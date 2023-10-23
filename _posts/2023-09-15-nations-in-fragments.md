@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nation in Fragments: Conference Honoring Partha Chatterjee"
+title: "Nations in Fragments: Conference Honoring Partha Chatterjee"
 permalink: nation-in-fragments
 ---
 
