@@ -51,12 +51,14 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - Shariq Khan
 - Rajeev Kinra
 - Hajnalka Kovacs
+- Bruce Lawrence
 - Anubhuti Maurya
 - Jane Mikkelson
 - Daniel Morgan
 - Ayesha Ramachandran
 - Sunil Sharma
 - Hasan Siddiqui
+  
 
 ### Keynotes
 
@@ -67,9 +69,14 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 
 - [The Whitney and Betty MacMillan Center for International and Area Studies](https://macmillan.yale.edu/) at Yale University
 - [Early Modern Studies](https://earlymodern.yale.edu/) at Yale
+- Department of History at Yale
+- Department of Religion at Yale
+- Yale Program in Iranian Studies
 - [Department of History](http://history.columbia.edu) at Columbia
 
 ## Format
+Day 1: Keynotes by Muzaffar Alam and Sanjay Subrahmanyam and a panel on Mughal Historiography in US
+Day 2: Workshop (pre-circulated papers) with participants.
 
 ## Venue
 
