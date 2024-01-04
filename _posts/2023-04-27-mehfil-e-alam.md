@@ -75,7 +75,7 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - [Department of History](http://history.columbia.edu) at Columbia
 
 ## Format
-Day 1: Keynotes by Muzaffar Alam and Sanjay Subrahmanyam and a panel on Mughal Historiography in US
+Day 1: Keynotes by Muzaffar Alam and Sanjay Subrahmanyam and a panel on Mughal Historiography in US.  
 Day 2: Workshop (pre-circulated papers) with participants.
 
 ## Venue
