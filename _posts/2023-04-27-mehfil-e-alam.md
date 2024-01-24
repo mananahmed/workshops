@@ -83,6 +83,7 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 
 
 ## Venue
+[Humanities Quadrangle, 320 York St, Room 276](https://maps.app.goo.gl/6gMgy8HmeY3Hinth7)
 
 ## Lodgings
 
