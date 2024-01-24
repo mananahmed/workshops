@@ -38,45 +38,48 @@ Since joining the University of Chicago in 2001, Professor Alam has taught and a
 
 This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor. The participants will be primarily his former students, who will present work that will be collected in an edited volume in his honour. The workshop will consist of short (twenty-minute) presentations, open to the public, spanning two days. Each day there will be two panels comprising three presenters and a respondent. Our event will begin with an opening keynote address by Sanjay Subrahmanyam and will conclude with a closing reflection by Muzaffar Alam.
 
-## Participants
+### Keynotes (April 26th)
 
+- Muzaffar Alam
+- Sanjay Subrahmanyam
+
+- 
+## Panel Participants (April 26th)
+- Purnima Dhavan
+- Ayesha Ramachandran
+- Bruce Lawrence
+- Anubhuti Maurya
+
+## Workshop Participants (April 27th)
+
+### Paper Presentations
 - Ananya Chakravarti
 - Whitney Cox
 - Sabrina Datoo
 - Subah Dayal
-- Purnima Dhavan
-- Supriya Gandhi
-- Sonam Kachru
 - Abhishek Kaicker
 - Shariq Khan
 - Rajeev Kinra
-- Hajnalka Kovacs
-- Bruce Lawrence
-- Anubhuti Maurya
 - Jane Mikkelson
 - Daniel Morgan
-- Ayesha Ramachandran
-- Sunil Sharma
 - Hasan Siddiqui
-  
 
-### Keynotes
-
-- Muzaffar Alam
-- Sanjay Subrahmanyam
+### Discussants and Chairs (April 27th)
+- Supriya Gandhi
+- Sonam Kachru
+- Hajnalka Kovacs
+- Sunil Sharma
 
 ## Funding & Support
 
 - [The Whitney and Betty MacMillan Center for International and Area Studies](https://macmillan.yale.edu/) at Yale University
 - [Early Modern Studies](https://earlymodern.yale.edu/) at Yale
 - Department of History at Yale
-- Department of Religion at Yale
-- Yale Program in Iranian Studies
+- Spanish and Portuguese at Yale
+- Yale Program in Iranian Studies + Center for Middle Eastern Studies
+- Near Eastern Languages and Civilizations
 - [Department of History](http://history.columbia.edu) at Columbia
 
-## Format
-Day 1: Keynotes by Muzaffar Alam and Sanjay Subrahmanyam and a panel on Mughal Historiography in US.  
-Day 2: Workshop (pre-circulated papers) with participants.
 
 ## Venue
 
