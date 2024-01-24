@@ -40,35 +40,34 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 
 ### Keynotes (April 26th)
 
-- Muzaffar Alam
-- Sanjay Subrahmanyam
+- Muzaffar Alam (University of Chicago)
+- Sanjay Subrahmanyam (University of Californa Los Angeles)
 
-- 
 ## Panel Participants (April 26th)
-- Purnima Dhavan
-- Ayesha Ramachandran
-- Bruce Lawrence
-- Anubhuti Maurya
+- Purnima Dhavan (University of Washington Seattle)
+- Ayesha Ramachandran (Yale University)
+- Bruce Lawrence (Duke University)
+- Anubhuti Maurya (Shiv Nagar University)
 
 ## Workshop Participants (April 27th)
 
 ### Paper Presentations
-- Ananya Chakravarti
-- Whitney Cox
-- Sabrina Datoo
-- Subah Dayal
-- Abhishek Kaicker
-- Shariq Khan
-- Rajeev Kinra
-- Jane Mikkelson
-- Daniel Morgan
-- Hasan Siddiqui
+- Ananya Chakravarti (Georgetown University)
+- Whitney Cox (University of Chicago)
+- Sabrina Datoo (Mt. Royal University)
+- Subah Dayal (New York University)
+- Abhishek Kaicker (University of California Berkeley)
+- Shariq Khan (University of Chicago)
+- Rajeev Kinra (Northwestern University)
+- Jane Mikkelson (Yale University)
+- Daniel Morgan (Santa Clara University)
+- Hasan Siddiqui (University of British Columbia)
 
 ### Discussants and Chairs (April 27th)
-- Supriya Gandhi
-- Sonam Kachru
-- Hajnalka Kovacs
-- Sunil Sharma
+- Supriya Gandhi (Yale University)
+- Sonam Kachru (Yale University)
+- Hajnalka Kovacs (Harvard University)
+
 
 ## Funding & Support
 
