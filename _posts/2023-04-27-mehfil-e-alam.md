@@ -38,27 +38,29 @@ Since joining the University of Chicago in 2001, Professor Alam has taught and a
 
 This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor. The participants will be primarily his former students, who will present work that will be collected in an edited volume in his honour. The workshop will consist of short (twenty-minute) presentations, open to the public, spanning two days. Each day there will be two panels comprising three presenters and a respondent. Our event will begin with an opening keynote address by Sanjay Subrahmanyam and will conclude with a closing reflection by Muzaffar Alam.
 
-### Keynotes (April 26th)
+## Keynotes (April 26th)
 
 - Muzaffar Alam (University of Chicago)
 - Sanjay Subrahmanyam (University of Californa Los Angeles)
 
-## Panel Participants (April 26th)
+## Roundtable "Worlds of Mughal History Now" (April 26th)
 - Purnima Dhavan (University of Washington Seattle)
 - Ayesha Ramachandran (Yale University)
 - Bruce Lawrence (Duke University)
 - Anubhuti Maurya (Shiv Nagar University)
 
-## Workshop Participants (April 27th)
+## Workshop (April 27th)
 
 ### Paper Presentations
 - Ananya Chakravarti (Georgetown University)
 - Whitney Cox (University of Chicago)
 - Sabrina Datoo (Mt. Royal University)
 - Subah Dayal (New York University)
+- Purnima Dhavan (University of Washington Seattle)
 - Abhishek Kaicker (University of California Berkeley)
 - Shariq Khan (University of Chicago)
 - Rajeev Kinra (Northwestern University)
+- Anubhuti Maurya (Shiv Nagar University)
 - Jane Mikkelson (Yale University)
 - Daniel Morgan (Santa Clara University)
 - Hasan Siddiqui (University of British Columbia)
