@@ -73,12 +73,13 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 
 ## Funding & Support
 
-- [The Whitney and Betty MacMillan Center for International and Area Studies](https://macmillan.yale.edu/) at Yale University
+- [The Edward J. and Dorothy Clarke Kempf Memorial Fund and The Whitney and Betty MacMillan Center for International and Area Studies at Yale](https://macmillan.yale.edu/) 
 - [Early Modern Studies](https://earlymodern.yale.edu/) at Yale
 - Department of History at Yale
 - Spanish and Portuguese at Yale
-- Yale Program in Iranian Studies + Center for Middle Eastern Studies
-- Near Eastern Languages and Civilizations
+- Yale Program in Iranian Studies + Council on Middle East Studies at Yale
+- The Viscusi Fund of the Department of Near Eastern Languages and Civilizations at Yale
+- South Asian Studies at Yale
 - [Department of History](http://history.columbia.edu) at Columbia
 
 
@@ -86,6 +87,8 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 [Humanities Quadrangle, 320 York St, Room 276](https://maps.app.goo.gl/6gMgy8HmeY3Hinth7)
 
 ## Lodgings
+
+[The Study at Yale](https://www.thestudyatyale.com/)
 
 ## Dinner
 
