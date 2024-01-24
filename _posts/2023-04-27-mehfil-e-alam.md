@@ -66,9 +66,11 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - Hasan Siddiqui (University of British Columbia)
 
 ### Discussants and Chairs (April 27th)
+- Asiya Alam (Louisiana State Unibersity)
 - Supriya Gandhi (Yale University)
 - Sonam Kachru (Yale University)
 - Hajnalka Kovacs (Harvard University)
+- Travis Zadeh (Yale University)
 
 
 ## Funding & Support
