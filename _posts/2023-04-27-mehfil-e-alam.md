@@ -40,8 +40,8 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 
 ## Keynotes (April 26th)
 
-- Muzaffar Alam (University of Chicago)
-- Sanjay Subrahmanyam (University of Californa Los Angeles)
+- “An Indian Apologia for an Orthodox Sunni Islam: The Case of Hujjat Al-Hind” by Muzaffar Alam (University of Chicago)
+- "Four Lives of Muzaffar Alam" by Sanjay Subrahmanyam (University of Californa Los Angeles)
 
 ## Roundtable "Worlds of Mughal History Now" (April 26th)
 - Purnima Dhavan (University of Washington Seattle)
