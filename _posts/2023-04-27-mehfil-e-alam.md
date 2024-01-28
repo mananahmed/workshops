@@ -47,7 +47,7 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - Purnima Dhavan (University of Washington Seattle)
 - Ayesha Ramachandran (Yale University)
 - Bruce Lawrence (Duke University)
-- Anubhuti Maurya (Shiv Nagar University)
+- Anubhuti Maurya (Shiv Nadar University)
 
 ## Workshop (April 27th)
 
