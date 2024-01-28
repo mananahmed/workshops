@@ -81,7 +81,7 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - Spanish and Portuguese at Yale
 - Yale Program in Iranian Studies + Council on Middle East Studies at Yale
 - The Viscusi Fund of the Department of Near Eastern Languages and Civilizations at Yale
-- South Asian Studies at Yale
+- South Asian Studies Council at Yale
 - [Department of History](http://history.columbia.edu) at Columbia
 
 
