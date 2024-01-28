@@ -60,7 +60,7 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - Abhishek Kaicker (University of California Berkeley)
 - Shariq Khan (University of Chicago)
 - Rajeev Kinra (Northwestern University)
-- Anubhuti Maurya (Shiv Nagar University)
+- Anubhuti Maurya (Shiv Nadar University)
 - Jane Mikkelson (Yale University)
 - Daniel Morgan (Santa Clara University)
 - Hasan Siddiqui (University of British Columbia)
