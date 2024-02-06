@@ -51,26 +51,25 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 
 ## Workshop (April 27th)
 
-### Paper Presentations
+### Panel Presentations
+
+#### Panel I (chair: Travis Zadeh)
+- Rajeev Kinra (Northwestern University)
 - Ananya Chakravarti (Georgetown University)
-- Whitney Cox (University of Chicago)
+- Abhishek Kaicker (University of California Berkeley)
+- Jane Mikkelson (Yale University)
+
+#### Panel II (chair: Asiya Alam)
+- Daniel Morgan (Santa Clara University)
+- Anubhuti Maurya (Shiv Nadar University)
+- Hasan Siddiqui (University of British Columbia)
 - Sabrina Datoo (Mt. Royal University)
+
+#### Panel III (chair: Hajnalka Kovacs)
 - Subah Dayal (New York University)
 - Purnima Dhavan (University of Washington Seattle)
-- Abhishek Kaicker (University of California Berkeley)
 - Shariq Khan (University of Chicago)
-- Rajeev Kinra (Northwestern University)
-- Anubhuti Maurya (Shiv Nadar University)
-- Jane Mikkelson (Yale University)
-- Daniel Morgan (Santa Clara University)
-- Hasan Siddiqui (University of British Columbia)
-
-### Discussants and Chairs (April 27th)
-- Asiya Alam (Louisiana State Unibersity)
-- Supriya Gandhi (Yale University)
-- Sonam Kachru (Yale University)
-- Hajnalka Kovacs (Harvard University)
-- Travis Zadeh (Yale University)
+- Whitney Cox (University of Chicago)
 
 
 ## Funding & Support
