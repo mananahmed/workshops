@@ -9,22 +9,19 @@ permalink: mehfil-e-alam
 
 ## Yale University
 
-| ![MA]({{ site.baseurl }}/assets/images/MehfileAlam.jpg) |
+
+| ![MA]({{ site.baseurl }}/assets/images/MehfilAlam1.jpg) |
+| ![MA]({{ site.baseurl }}/assets/images/MehfilAlam2.jpg) |
 | :-----------------------------------------------------: |
-|                     _Save the Date_                     |
+|                     _Program_                     |
 
 ## Registration/Attendance
-
-[Link TBD]
-
-## Program
-
-[Forthcoming]
+Open to all. No registration required
 
 ## Organizing Team
 
-- Manan Ahmed
-- Jane Mikkelson
+- Manan Ahmed (Columbia University)
+- Jane Mikkelson (Yale University)
 
 ## About
 
