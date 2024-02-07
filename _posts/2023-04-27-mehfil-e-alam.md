@@ -10,8 +10,8 @@ permalink: mehfil-e-alam
 ## Yale University
 
 
-| ![MA]({{ site.baseurl }}/assets/images/MehfilAlam1.jpg) |
-| ![MA]({{ site.baseurl }}/assets/images/MehfilAlam2.jpg) |
+| ![MA]({{ site.baseurl }}/assets/images/MehfileAlam1.jpg) |
+| ![MA]({{ site.baseurl }}/assets/images/MehfileAlam2.jpg) |
 | :-----------------------------------------------------: |
 |                     _Program_                     |
 
