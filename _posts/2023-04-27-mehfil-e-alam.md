@@ -51,18 +51,21 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 ### Panel Presentations
 
 #### Panel I (chair: Travis Zadeh)
+- Discussant: Supriya Gandhi (Yale)
 - Rajeev Kinra (Northwestern University)
 - Ananya Chakravarti (Georgetown University)
 - Abhishek Kaicker (University of California Berkeley)
 - Jane Mikkelson (Yale University)
 
 #### Panel II (chair: Asiya Alam)
+- Discussant: Sonam Kachru (Yale)
 - Daniel Morgan (Santa Clara University)
 - Anubhuti Maurya (Shiv Nadar University)
 - Hasan Siddiqui (University of British Columbia)
 - Sabrina Datoo (Mt. Royal University)
 
 #### Panel III (chair: Hajnalka Kovacs)
+- Discussant: Manan Ahmed (Columbia)
 - Subah Dayal (New York University)
 - Purnima Dhavan (University of Washington Seattle)
 - Shariq Khan (University of Chicago)
