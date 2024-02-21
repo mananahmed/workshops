@@ -88,8 +88,8 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 [Humanities Quadrangle, 320 York St, Room 276](https://maps.app.goo.gl/6gMgy8HmeY3Hinth7)
 
 ## Lodgings
-
-[The Study at Yale](https://www.thestudyatyale.com/)
+[The Study at Yale](https://www.thestudyatyale.com/), [The Graduate](https://graduatehotels.com/new-haven/), or [The Blake](https://www.theblakenewhaven.com) are good options for visitors. The first two are very close to campus, The Blake is about a 10 minute walk to campus. The corporate hotels in town, Omni, and Courtyard Marriott are other options--both are fine and a relatively short walk to 320 York, within 15 minutes. We suggest people begin their booking search asap because things book very quickly in New Haven in April.
+ 
 
 ## Dinner
 
