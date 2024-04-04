@@ -47,6 +47,7 @@ This event is a celebration of Muzaffar Alam’s legacy as a scholar and mentor.
 - Anubhuti Maurya (Shiv Nadar University)
 
 ## Workshop (April 27th)
+On the second day we will have paper presentations from students and colleagues of Prof Muzaffar Alam. All panels are 2 hours with individual papers restricted to 20 minutes.
 
 ### Panel Presentations
 
