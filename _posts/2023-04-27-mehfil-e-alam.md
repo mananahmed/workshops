@@ -59,7 +59,7 @@ On the second day we will have paper presentations from students and colleagues 
 - Jane Mikkelson (Yale University)
 
 #### Panel II (chair: Asiya Alam)
-- Discussant: Sonam Kachru (Yale)
+- Discussant: Bruce Lawrence (Duke)
 - Daniel Morgan (Santa Clara University)
 - Anubhuti Maurya (Shiv Nadar University)
 - Hasan Siddiqui (University of British Columbia)
