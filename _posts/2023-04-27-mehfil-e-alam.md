@@ -97,6 +97,7 @@ On the second day we will have paper presentations from students and colleagues 
 - [Manan Ahmed](mailto:ma3179@columbia.edu) or [Jane Mikkelson](jane.mikkelson@yale.edu) for all matters.
 
 ## Event Photos
+<img src="{{ site.baseurl }}/assets/images/mehfilealam/1.jpeg">
 
 ## Press Coverage
 
